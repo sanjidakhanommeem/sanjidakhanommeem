@@ -1,5 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sanjida Khanom 👋
 
+## About Me
+- 🎓 CSE Graduate
+- 💻 Learning Git & GitHub
+- 🤖 Interested in AI, Machine Learning & Data Science
+- 📍 Bangladesh
+
+## Currently Learning
+- Python
+- Git & GitHub
+- Machine Learning
+
+## Goals
+- Build real-world projects
+- Contribute to open-source
+- Prepare for Software/AI jobs
 <!--
 **sanjidakhanommeem/sanjidakhanommeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
