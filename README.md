@@ -1,31 +1,48 @@
 # Hi, I'm Sanjida Khanom 👋
 
-## About Me
-- 🎓 CSE Graduate
-- 💻 Learning Git & GitHub
-- 🤖 Interested in AI, Machine Learning & Data Science
+## 👩‍💻 About Me
+
+- 🎓 CSE Graduate from North South University (NSU)
+- 🔐 Interested in Cybersecurity, Artificial Intelligence, Machine Learning & Quantum Computing
+- 🔬 Interested in research-oriented computing and emerging technologies
+- 💻 Passionate about building practical software and academic projects
 - 📍 Bangladesh
 
-## Currently Learning
-- Python
-- Git & GitHub
-- Machine Learning
+## 🛠️ Technical Skills
 
-## Goals
-- Build real-world projects
-- Contribute to open-source
-- Prepare for Software/AI jobs
-<!--
-**sanjidakhanommeem/sanjidakhanommeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Programming Languages:**  
+Python • C • C++ • Java • SQL • Assembly
 
-Here are some ideas to get you started:
+**Technologies & Tools:**  
+Git • GitHub • VS Code • Jupyter Notebook • MySQL • Qiskit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Areas of Interest:**  
+Cybersecurity • Artificial Intelligence • Machine Learning • Quantum Computing • Software Engineering • Data Science
+
+## 🚀 Projects
+
+I have worked on various academic and research-oriented projects throughout my CSE degree, including projects in:
+
+- 🔐 Cybersecurity & Secure Systems
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚛️ Quantum Computing & Quantum Security
+- 🗄️ Database Management Systems
+- 💻 Software Engineering
+- 🧠 Algorithms & Problem Solving
+- 🔌 Embedded Systems & Microprocessors
+
+> Selected projects and their documentation are being added to my GitHub repositories.
+
+## 🌱 Currently Exploring
+
+- Advanced Machine Learning
+- Cybersecurity
+- Quantum Computing
+- Research-oriented Software Development
+
+## 🎯 Goals
+
+- Build impactful real-world and research-oriented projects
+- Strengthen my software development and research skills
+- Contribute to open-source projects
+- Continue exploring AI, Cybersecurity and emerging technologies
